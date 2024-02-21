@@ -1,6 +1,6 @@
-# BrainAge_Estimation
+# Brain Age Estimation
 
-## Abstract
+## About This Repository
 
-<p style="text-align: justify;"> Brain age estimation is the task of predicting a person's biological age from brain images, revealing insights into aging and neurodegenerative diseases. Conducting large-scale datasets for medical image analysis is a challenging and time-consuming task. Current methodologies rely heavily on extensive datasets, which are not only difficult and expensive to obtain but also require complex and resource-intensive models with numerous parameters, demanding significant computational resources. As a result, there is a vital need for the development of innovative methods that can achieve robust performance with limited datasets and efficient use of computational resources. This paper proposes a novel slice-based batch inference ensemble method for brain age estimation, addressing the limitations of both large dataset requirements and computational resource intensiveness. The proposed method incorporates both local and global aspects of the brain, thereby refining the focus on specific target regions. The approach employs four backbones to predict ages based on local and global features, complemented by a final model for age correction. Our method demonstrates a Mean Absolute Error (MAE) of --- years on the IXI’s test set and --- years on the IBID’s test set. By leveraging batch inference and ensemble strategies, our approach achieves efficiency and robust performance, making it comparable with other state-of-the-art methods. </p>
+<p style="text-align: justify;"> This is the repository of our paper named 'Robust Brain Age Estimation for Limited Datasets: A Dual-Stream Model with Age Correction'. In this repository the corresponding codes and data are available. </p>
 
