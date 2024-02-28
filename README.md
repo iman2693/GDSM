@@ -1,7 +1,7 @@
 # Brain Age Estimation
 
 ## Description 
-This is the source code for ''Robust Brain Age Estimation for Limited Datasets: A Dual-Stream Model with Age Correction''
+This is the source code for ''Brain Age Estimation with a Greedy Dual-Stream Model for Limited Datasets''
  [paper link](https://google.com ("paper link"))
  
-**Please contact at "imankianian.cs@gmail.com" if you have any question about the paper and the repository**.
+**Please contact me at "kianian@ut.ac.ir" if you have any questions about the paper and the repository**.
